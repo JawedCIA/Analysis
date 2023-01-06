@@ -10,4 +10,4 @@ OutPut:
 ![image](https://user-images.githubusercontent.com/16477789/210965283-9f98d3db-2350-40e7-9a59-b1f80e0c9956.png)
 ![image](https://user-images.githubusercontent.com/16477789/210965341-2efc3ce5-1585-4d59-a2ce-8cbb80a0190d.png)
 
-and collection DLLs adn API used by malware.
+and collection of DLLs and API.
